@@ -1,0 +1,6 @@
+FONTES
+https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight
+
+
+Branco/Vermelho - Verde/Branco - Vermelhor - Verde
+8 - 10 - 11 - 9
