@@ -6,14 +6,14 @@
 
 ##**1 Introdução**
 
-Este trabalho tem como foco impletar em um Arduino um sistema para controlar um processo industrial de mistura de liquidos. Os líquidos são misturados pelo motor de passos e o processo é dividido em várias etapas que são mostradas em um Display LCD. Outros dispositivos como botões e LEDS foram usadas para simular o funcionamento do processo.
+Este trabalho tem como objetivo impletar em um Arduino um sistema para controlar um processo industrial de mistura de liquidos. Os líquidos são misturados pelo motor de passos e o processo é dividido em várias etapas que são mostradas em um Display LCD. Outros dispositivos como botões e LEDS foram usadas para simular o funcionamento do processo.
 
 
 ##**2 Abordagem**
 
 ###**2.1 Materiais e métodos**
 
-<p style="text-align: justify;">Usamos uma placa Arduino Mega e os seguintes componentes do Grove - Starter kit: um Led Azul, um Led Vermelho, um botão, dois sensores de toque e um shield.</p>
+<p style="text-align: justify;">Usamos uma placa Arduino Mega e os seguintes componentes do Grove do Starter kit: um Led Azul, um Led Vermelho, um botão, dois sensores de toque e um shield.</p>
 
 ###**2.2 Processo**
 
@@ -32,9 +32,9 @@ Este trabalho tem como foco impletar em um Arduino um sistema para controlar um 
 
 ##5 **Outros trabalhos desta disciplina**
 
-[cancela](https://github.com/Power041/cancela)
+[Cancela](https://github.com/Power041/cancela)
 
-[Lab-Mic-A](https://github.com/jblsouza/Lab-Mic-A)
+[Controle da ventoinha](https://github.com/jblsouza/Lab-Mic-A)
 
 [TuringMachine](https://github.com/iksmada/TuringMachine)
 
