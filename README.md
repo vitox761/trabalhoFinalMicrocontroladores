@@ -28,3 +28,28 @@ Este trabalho tem como foco impletar em um Arduino um sistema para controlar um 
 
 [![Trabalho Final MIC](http://img.youtube.com/vi/J-q5R4f5pd8/0.jpg)]
 (http://www.youtube.com/watch?v=J-q5R4f5pd8)
+
+
+##4 **Outros trabalhos desta disciplina
+
+![](https://github.com/Power041/cancela)
+
+![](https://github.com/jblsouza/Lab-Mic-A)
+
+![](https://github.com/iksmada/TuringMachine)
+
+![](https://github.com/Fonseka100/MIC-Amaciante)
+
+![]https://github.com/matheusvervloet/girassolar)
+
+![](https://github.com/alex-dias/TrabalhoFinalMIC2015)
+
+![](https://github.com/gustavocesarlos/trabalhofinalMic)
+
+![](https://github.com/gabrielNT/LabMicApl_TrabalhoFinal)
+
+![](https://github.com/brunowilliamsap/microcontroladores)
+
+![](https://github.com/rodrigoa1990/Projeto-Microcontroladores)
+
+![](https://github.com/matheusDeAlmeida/trabalhoFinalMicrocontroladores)
