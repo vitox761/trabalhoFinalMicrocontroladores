@@ -32,24 +32,24 @@ Este trabalho tem como foco impletar em um Arduino um sistema para controlar um 
 
 ##4 **Outros trabalhos desta disciplina
 
-![](https://github.com/Power041/cancela)
+[](https://github.com/Power041/cancela)
 
-![](https://github.com/jblsouza/Lab-Mic-A)
+[](https://github.com/jblsouza/Lab-Mic-A)
 
-![](https://github.com/iksmada/TuringMachine)
+[](https://github.com/iksmada/TuringMachine)
 
-![](https://github.com/Fonseka100/MIC-Amaciante)
+[](https://github.com/Fonseka100/MIC-Amaciante)
 
-![]https://github.com/matheusvervloet/girassolar)
+[]https://github.com/matheusvervloet/girassolar)
 
-![](https://github.com/alex-dias/TrabalhoFinalMIC2015)
+[](https://github.com/alex-dias/TrabalhoFinalMIC2015)
 
-![](https://github.com/gustavocesarlos/trabalhofinalMic)
+[](https://github.com/gustavocesarlos/trabalhofinalMic)
 
-![](https://github.com/gabrielNT/LabMicApl_TrabalhoFinal)
+[](https://github.com/gabrielNT/LabMicApl_TrabalhoFinal)
 
-![](https://github.com/brunowilliamsap/microcontroladores)
+[](https://github.com/brunowilliamsap/microcontroladores)
 
-![](https://github.com/rodrigoa1990/Projeto-Microcontroladores)
+[](https://github.com/rodrigoa1990/Projeto-Microcontroladores)
 
-![](https://github.com/matheusDeAlmeida/trabalhoFinalMicrocontroladores)
+[](https://github.com/matheusDeAlmeida/trabalhoFinalMicrocontroladores)
