@@ -40,7 +40,7 @@ Este trabalho tem como foco impletar em um Arduino um sistema para controlar um 
 
 [Amaciante](https://github.com/Fonseka100/MIC-Amaciante)
 
-[girassolar]https://github.com/matheusvervloet/girassolar)
+[girassolar](https://github.com/matheusvervloet/girassolar)
 
 [Esteira GENOMAX](https://github.com/alex-dias/TrabalhoFinalMIC2015)
 
