@@ -36,20 +36,20 @@ Este trabalho tem como foco impletar em um Arduino um sistema para controlar um 
 
 [Lab-Mic-A](https://github.com/jblsouza/Lab-Mic-A)
 
-![TuringMachine](https://github.com/iksmada/TuringMachine)
+[TuringMachine](https://github.com/iksmada/TuringMachine)
 
-![Amaciante](https://github.com/Fonseka100/MIC-Amaciante)
+[Amaciante](https://github.com/Fonseka100/MIC-Amaciante)
 
-![girassolar]https://github.com/matheusvervloet/girassolar)
+[girassolar]https://github.com/matheusvervloet/girassolar)
 
-![TrabalhoFinalMIC2015](https://github.com/alex-dias/TrabalhoFinalMIC2015)
+[Esteira GENOMAX](https://github.com/alex-dias/TrabalhoFinalMIC2015)
 
-![trabalhofinalMic](https://github.com/gustavocesarlos/trabalhofinalMic)
+[câmera de segurança para portões](https://github.com/gustavocesarlos/trabalhofinalMic)
 
-![LabMicApl_TrabalhoFinal](https://github.com/gabrielNT/LabMicApl_TrabalhoFinal)
+[tranca de portão](https://github.com/gabrielNT/LabMicApl_TrabalhoFinal)
 
-![microcontroladores](https://github.com/brunowilliamsap/microcontroladores)
+[sistema de automação de baixa complexidade](https://github.com/brunowilliamsap/microcontroladores)
 
-![Projeto-Microcontroladores](https://github.com/rodrigoa1990/Projeto-Microcontroladores)
+[Sistema de controle de persiana](https://github.com/rodrigoa1990/Projeto-Microcontroladores)
 
-![trabalhoFinalMicrocontroladores](https://github.com/matheusDeAlmeida/trabalhoFinalMicrocontroladores)
+[Processamento de bebidas](https://github.com/matheusDeAlmeida/trabalhoFinalMicrocontroladores)
