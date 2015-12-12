@@ -27,3 +27,4 @@ Este trabalho tem como foco impletar em um Arduino um sistema para controlar um 
 ##4 **Vídeo de demonstração**
 
 [![Trabalho Final MIC](http://img.youtube.com/vi/J-q5R4f5pd8/0.jpg)]
+(http://www.youtube.com/watch?v=J-q5R4f5pd8)
