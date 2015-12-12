@@ -32,9 +32,9 @@ Este trabalho tem como foco impletar em um Arduino um sistema para controlar um 
 
 ##4 **Outros trabalhos desta disciplina
 
-![cancela](https://github.com/Power041/cancela)
+[cancela](https://github.com/Power041/cancela)
 
-![Lab-Mic-A](https://github.com/jblsouza/Lab-Mic-A)
+[Lab-Mic-A](https://github.com/jblsouza/Lab-Mic-A)
 
 ![TuringMachine](https://github.com/iksmada/TuringMachine)
 
